@@ -3,6 +3,7 @@
 This project aims to implement the genetic algorithm which is applied to a neural network that plays an instance of tetris.
 
 ![Tetris](https://i.imgur.com/Ldwi3Wd.gif)
+
 *An individual "playing" the game.*
 
 ### Requirements
@@ -93,6 +94,7 @@ In order to realize a crossover between 2 parents, their 2D weight matrices need
 # Results
 
 ![Program in Progress](https://i.imgur.com/7NxsDrI.gif)
+
 *An example of how the program looks during runtime.*
 
 For data-collection, each run was executed using given parameters. A single run for 10000 tetris games will last approx. 6-10 minutes, depending on the parameters chosen. (Testing was done using an Intel-13700k processor)
